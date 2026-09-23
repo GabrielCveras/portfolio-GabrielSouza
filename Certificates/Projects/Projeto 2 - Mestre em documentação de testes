@@ -1,0 +1,7 @@
+💻 Projeto: Design de Testes – Formulário "Adicionar Carteira de Motorista"
+
+Realizei o design de testes do formulário “Adicionar carteira de motorista” da aplicação Urban Routes. 
+Analisei os requisitos e defini classes de equivalência, valores-limite e dados de teste para os campos Nome, Sobrenome e Data de nascimento, incluindo cenários positivos e negativos
+Também elaborei casos de teste detalhados para o campo Nome e documentei todos os resultados em uma planilha de testes.
+
+🔗 Link do projeto realizado: https://docs.google.com/spreadsheets/d/1QIwlLoBz35EdD5nU5yJfg9wyjR3QWCA6/edit?usp=sharing&ouid=111832328199159296281&rtpof=true&sd=true 
