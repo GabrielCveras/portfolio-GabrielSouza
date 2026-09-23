@@ -1,0 +1,10 @@
+💻 Projeto: Testes de API – Urban.Grocers
+
+Como analista de QA, fui responsável por analisar os requisitos da API do Urban.Grocers e projetar testes para validar as novas funcionalidades do back-end. 
+Criei um checklist detalhado para testar o endpoint de gerenciamento de kits, verificando a adição de produtos e o limite máximo permitido de itens.
+Também validei o endpoint responsável pelo serviço de entrega Order and Go, verificando a disponibilidade do serviço e o cálculo do valor da entrega conforme as regras definidas nos requisitos.
+Executei os testes utilizando o Postman, cobrindo cenários positivos, negativos e casos relacionados aos limites das regras de negócio. 
+Registrei os resultados na planilha de testes e, quando identifiquei comportamentos diferentes dos resultados esperados, documentei os bugs no Jira com as informações necessárias para análise e correção pela equipe de desenvolvimento.
+Ao final, preparei um relatório de teste com o status das funcionalidades avaliadas e os principais resultados encontrados.
+
+🔗 Link do projeto realizado: https://docs.google.com/spreadsheets/d/15TkCmWL8GLzpYEZY_mHDHHFIO64uXP8y/edit?usp=sharing&ouid=111832328199159296281&rtpof=true&sd=true
