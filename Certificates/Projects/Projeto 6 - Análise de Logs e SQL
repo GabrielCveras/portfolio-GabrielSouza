@@ -1,0 +1,18 @@
+💻 Projeto Sprint 6 — Análise de Logs e SQL
+
+Neste projeto, trabalhei com análise de logs em servidor remoto e consultas SQL para investigar problemas relacionados a um aplicativo de táxi.
+
+O que realizei
+
+* Analisei e filtrei logs utilizando comandos do Linux/Bash
+* Identifiquei requisições por endereço IP e códigos de erro HTTP
+* Organizei e separei logs de erros 400 e 500
+* Realizei consultas em PostgreSQL para análise dos dados
+* Utilizei `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY` e `CASE`
+* Analisei dados de veículos, empresas, condições climáticas e corridas de táxi.
+
+ Ferramentas
+
+Linux | Bash | SQL | PostgreSQL
+
+🔗 Projeto completo: https://docs.google.com/document/d/1aGeBHpuJ9Jf22OO7jg3729azzs9b3v2jfG1HYgxkZvI/edit?usp=sharing
