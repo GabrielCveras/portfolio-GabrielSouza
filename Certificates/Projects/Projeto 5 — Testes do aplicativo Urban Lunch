@@ -1,0 +1,34 @@
+Projeto 5 — Testes do aplicativo Urban Lunch
+
+ Sobre o projeto
+
+ Projeto de testes manuais de uma aplicação Android de pedidos de comida, desenvolvido durante minha formação em QA Engineer na TripleTen.
+
+ O objetivo foi validar o funcionamento do aplicativo Urban Lunch de acordo com os requisitos definidos, garantindo que o fluxo de pedido e suas principais funcionalidades apresentassem o comportamento esperado.
+
+ O que realizei:
+
+* Analisei os requisitos funcionais da aplicação
+* Elaborei um checklist de testes baseado nos requisitos
+* Realizei testes funcionais e exploratórios
+* Instalei e testei o aplicativo em um emulador Android Pixel 5
+* Validei o fluxo de seleção de restaurante, escolha de pratos e realização do pedido
+* Registrei os resultados dos testes como APROVADO ou REPROVADO
+* Identifiquei e documentei bugs encontrados durante os testes
+* Registrei os bugs no Jira, incluindo as informações necessárias para sua reprodução.
+
+ Ferramentas e tecnologias
+
+* Jira
+* Google Sheets
+* Figma
+* Android Emulator / Pixel 5
+* Testes Manuais
+* Testes Funcionais
+* Testes Exploratórios
+
+ Projeto completo
+
+🔗 https://docs.google.com/spreadsheets/d/1XOjUcT5zo605OuD7D18MJrWHTdKfIzAG0p76yN8G7G4/edit?usp=sharing
+
+O projeto completo contém o checklist de testes, resultados das execuções e os relatórios de bugs identificados durante a validação da aplicação.
