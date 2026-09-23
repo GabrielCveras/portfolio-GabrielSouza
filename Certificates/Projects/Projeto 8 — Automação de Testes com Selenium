@@ -1,0 +1,20 @@
+💻Projeto 8 — Automação de Testes com Selenium
+
+Como QA Analyst, neste projeto desenvolvi testes automatizados end-to-end para validar todo o processo de solicitação de um táxi no aplicativo Urban Routes.
+
+O que realizei
+
+* Desenvolvi testes automatizados utilizando Python e Selenium;
+* Implementei o padrão Page Object Model (POM);
+* Criei e utilizei localizadores com diferentes estratégias do Selenium;
+* Automatizei o preenchimento de dados, seleção de tarifa, pagamento e opções da corrida;
+* Validei a seleção de cobertor, lenços e sorvetes;
+* Utilizei `assert` para validar os comportamentos esperados;
+* Implementei `setup` e `teardown` para preparação e finalização dos testes;
+* Executei os testes utilizando Pytest e validei seus resultados.
+
+🔧Ferramentas
+
+Python | Selenium | Pytest | POM | Git | GitHub
+
+🔗 Projeto completo: https://github.com/GabrielCveras/QA-Brazil_Python_Automation
