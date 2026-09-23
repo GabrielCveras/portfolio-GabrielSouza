@@ -1,0 +1,16 @@
+💻 Projeto 7 - Automação de Testes
+
+Como QA Analyst, neste projeto preparei a estrutura inicial de um projeto de automação de testes utilizando Python, criando a base necessária para a implementação dos testes com Selenium no Sprint 8.
+
+O que realizei:
+
+Estruturei o projeto e organizei os dados de teste;
+Criei a estrutura dos testes utilizando Pytest;
+Desenvolvi funções para representar diferentes etapas do fluxo do Urban Routes;
+Implementei a verificação de disponibilidade do servidor;
+Preparei a estrutura para a automação dos testes com Selenium;
+Utilizei Git e GitHub para versionamento do projeto.
+
+🔧Ferramentas:
+
+Python | Pytest | Selenium | Git | GitHub
